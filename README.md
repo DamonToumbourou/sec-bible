@@ -1,6 +1,6 @@
 The Security Bible
 
-[Custom foo description](#Forensics)
+[Forensics](#Forensics)
 
 
 # Forensics
