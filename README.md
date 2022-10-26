@@ -2,7 +2,7 @@ The Security Bible
 awdawawdaw
 
 
-[[gotto|test]]
+[Custom foo description](#foo)
 
 asdasd
 
@@ -21,4 +21,38 @@ asdasd
 
 
 
-asdads
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#foo
