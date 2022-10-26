@@ -1,120 +1,14 @@
 The Security Bible
-awdawawdaw
+
+[Custom foo description](#Forensics)
 
 
-[Custom foo description](#foo)
-
-asdasd
-
-
-
-[test]
-
-
-
-saddddddasdasd
-
-sdaas 
-as
-da
-sd
-asd
-as
-d
-asd
-as
-d
-asd
-as
-d
-asd
-as
-d
-asd
-as
-d
-asd
-as
-d
-asd
-asd
-a
-sd
-asd
-as
-as
-da
-sd
-as
-da
-sd
-asd
-as
-d
-asd
-asd
-as
-ed
-asd
-as
-da
-sd
-asd
-as
-d
-asd
-as
-da
-sd
-asd
-as
-da
-sd
-asd
-as
-das
-d
-as
-asdasd
+# Forensics
+## Endpoint Forensics
+### Windows Evidence of File / Folder Opening
+> Open/Save MRU
+- Registry key tracks files that have been opened or saved within a Windows shell dialog box including web browsers and most applications.
+- Location: NTUSER.DAT.
 
 
 
-asdasd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# foo
